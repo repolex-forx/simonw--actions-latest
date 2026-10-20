@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "actions-latest",
+  "versions": [
+    {
+      "commit": "8d046f2ec645242db08f4eb33c13ca90495d6101",
+      "parsed_at": "2026-10-20T10:27:47.861482+00:00",
+      "filetree": "filetree/8d046f2ec645242db08f4eb33c13ca90495d6101.nq.gz",
+      "blobs": [
+        "blob/3846043fa2abc596bb561bcebca9f20547415e20.nq.gz",
+        "blob/09a33c6b1085ec88ea2354bac7aa1cf43e6b3b79.nq.gz",
+        "blob/8ee74e76fcec598c9cd444f63b9676739f2f00c8.nq.gz",
+        "blob/8d185a02cbb6e222bc33c8541f9385f736651aca.nq.gz",
+        "blob/8fdb1e0df045069314647a81201c34dcfdb5d9e6.nq.gz",
+        "blob/1fca263f4888ba9a324a9dfb9c41cfebdfc5623f.nq.gz",
+        "blob/91c0a51ba2f83e67b86a4444ae9b370365e99d88.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
