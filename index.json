@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "actions-latest",
+  "versions": [
+    {
+      "commit": "8d046f2ec645242db08f4eb33c13ca90495d6101",
+      "tag": "",
+      "parsed_at": "2026-10-20T10:29:29.766074+00:00"
+    }
+  ]
+}
