@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonw/actions-latest/commit/8d046f2ec645242db08f4eb33c13ca90495d6101",
       "git:hexsha": "8d046f2ec645242db08f4eb33c13ca90495d6101",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
